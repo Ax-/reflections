@@ -4,3 +4,5 @@
 -Because it gives users more flexibility.
 - -Describe the differences between forks, clones, and branches. When would you use one instead of another?
 -Fork will automatically set-up a repository from someone else’s repository, clone will ‘clone’ someone else repository on to your local machine and not to your gitHub automatically while a branch is a mechanism that works locally on your project whenever you make a logical change.
+- -What is the benefit of having a copy of the last known state of the remote stored locally?
+-It provide reference of the last state of the remote in case we work offline. It will be useful when we potentially merge later.
